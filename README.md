@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Project Overview
+
+This project is a product catalog where you can view featured products and a complete product list.
+
+## Features
+
+- **View Products**: Browse through the list of all available products.
+- **Featured Products**: Easily access and view highlighted products.
+- **Add New Products**: Register new products to the catalog.
+- **Edit Products**: Modify existing product details.
+- **Delete Products**: Remove products from the catalog.
 
 ## Getting Started
 
